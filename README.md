@@ -15,7 +15,7 @@ A set of reusable classes that would be used in a casino card game application.
 # Installation
 
 1. Create a fork and clone down the repo into your local repository
-2. All methods available in the 
+2. All methods are available in the src folder.
 
 #License
 
