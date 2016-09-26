@@ -4,9 +4,7 @@ A set of reusable classes that would be used in a casino card game application.
 
 # Current Classes
 
-```Deck``` - 
-```Card``` -
-```Hand``` -
+- Deck, Hand, Card
 
 # Potential Classes that could be added
 
